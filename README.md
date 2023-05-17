@@ -10,4 +10,3 @@ These are some funny (I think) comments I often leave at the bottom files that I
 - TODO: figure out what i’ve done here and comment accordingly
 - dear future me, please forgive me
 - abandon all hope ye who read beyond this point
-- $str = str_replace(array("\{","\}")," ",$str); // replaces the braces with spaces in cases where braces in places cause stasis
