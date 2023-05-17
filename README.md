@@ -6,3 +6,8 @@ These are some funny (I think) comments I often leave at the bottom files that I
 - magic. do not tamper.
 - sometimes i think the compiler just ignores all my comments
 - print("written by richie") if working else print("i have no idea who wrote this")
+- may James Gosling forgive me
+- TODO: figure out what i’ve done here and comment accordingly
+- dear future me, please forgive me
+- abandon all hope ye who read beyond this point
+- $str = str_replace(array("\{","\}")," ",$str); // replaces the braces with spaces in cases where braces in places cause stasis
